@@ -1,5 +1,5 @@
 # useful-tools-for-students
-A collaborative guide for all students by [davidkinyuamuraya-wq,caleb565656,XOXO254]
+A collaborative guide for all students by [davidkinyuamuraya-wq,caleb565656,XOXO254,Boniface1818]
 ## Table of contents 
 -[Introduction](#introduction)
 -[ChatGPT](#chatGPT)
