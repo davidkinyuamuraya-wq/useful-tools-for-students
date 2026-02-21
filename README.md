@@ -5,6 +5,7 @@ A collaborative guide for all students by [davidkinyuamuraya-wq,caleb565656,XOXO
 -[ChatGPT](#chatGPT)
 -[Canva](#canva)
 -[VS Code](#vs-code)
+-[HackerRank](#Hackerank)
 ## Introduction
 This guide covers the various tools that students ought to know about.
 Each section is written by a different team member.
@@ -14,3 +15,6 @@ Each section is written by a different team member.
 <! -- [Team member 2 caleb565656] 
 ## VS Code
 <! -- [Team member 3 XOXO254]   
+## HackerRank
+>! -- [Team member 4 Boniface1818] This is Basically a Learning Tooland Platform for Students Begining and Developers in learning anything concerning Coding whereby they can enhance their programming skills since it offers an Environment for writing one's code and running it and also offers coding challenges whereby one gets to develop good Problem Solving Skills and once one feels he/she has enough marketable skills they get a chance to participate in Technical Interviews for Preparations of how well one is skilled both Technically and Theoritically in a Variety of Programming Languages.
+
