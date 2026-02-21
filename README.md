@@ -16,6 +16,4 @@ Each section is written by a different team member.
 ## VS Code
 <! -- [Team Member 3 XOXO254]   
 ## HackerRank
-<! -- [Team Member 4 Boniface1818] **This is Basically a Learning Tooland Platform for Students Begining and Developers in learning anything concerning Coding whereby they can enhance their programming skills since it offers an Environment for writing one's code and running it and also offers coding challenges whereby one gets to develop good Problem Solving Skills and once one feels he/she has enough marketable skills they get a chance to participate in Technical Interviews for Preparations of how well one is skilled both Technically and Theoritically in a Variety of Programming Languages.
-
-**
+<! -- [Team Member 4 Boniface1818] This is Basically a Learning Tool and Platform for Students Begining and Skilled Developers in learning and Practicing anything concerning Coding whereby they can enhance their programming skills since it offers an Environment for writing one's code and running it and also offers coding challenges whereby one gets to develop good Problem Solving Skills and once one feels he/she has enough marketable skills they get a chance to participate in Technical Interviews for Preparations of how well one is skilled both Technically and Theoritically in a Variety of Programming Languages.
