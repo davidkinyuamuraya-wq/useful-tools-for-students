@@ -16,7 +16,7 @@ This guide covers the various tools that students ought to know about.
 Each section is written✍✍ by a different team member.
 ## ChatGPT 
 <! -- [Team Member 1 davidkinyuamuraya-wq] This is an **AI chatbot** for everyday use.
-### It aids students by:
+### It aids students by: 
 - 📘 **Explaining concepts** by providing step-by-step solutions and breaking down complex topics into simple explanations
 - 📝 **Assingnment & homework support** it helps students understand the assignment questions.
 - 📊 **problem solving** solves mathematical calculations , explains formulas and methods used.
