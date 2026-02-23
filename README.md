@@ -44,7 +44,19 @@ Each section is written✍✍ by a different team member.
 
 
 ## VS Code
-<! -- [Team Member 3 XOXO254]   
+<! -- [Team Member 3 XOXO254] 
+### Visual Studio Code (VS Code)
+
+**Visual Studio Code** is a powerful, open-source code editor developed by Microsoft. It has become a favorite tool for students and professional developers alike because it is lightweight yet highly customizable. Unlike a simple text editor, VS Code offers built-in support for debugging, version control (Git), and an integrated terminal, allowing you to write and test your code in one place.
+
+Key features include:
+* **IntelliSense:** Provides smart completions based on variable types and function definitions.
+* **Extensions:** Thousands of add-ons for languages like Python, Java, C++, and web development.
+* **Customization:** You can change themes, keyboard shortcuts, and layout preferences to match your workflow.
+* **GitHub Integration:** Seamlessly push and pull code directly from the editor.
+
+You can download it for free here:  
+[Download Visual Studio Code](https://code.visualstudio.com/)
 ## HackerRank
 <! -- [Team Member 4 Boniface1818] # 💻 Learning Tool for Students and Developers
 
