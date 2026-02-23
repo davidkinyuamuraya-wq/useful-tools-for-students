@@ -21,6 +21,7 @@ Each section is written✍✍ by a different team member.
 🔗🔗[link](https://chat.openai.com/)
 ## Canva
 <! -- [Team Member 2 caleb565656] 
+
 -This is an **online, user-friendly graphic design platform** that allows users to **create social media graphics, presentations, posters,videos and websites** without advanced technical skills
 
 ### It enables students or any other users to:
@@ -28,7 +29,7 @@ Each section is written✍✍ by a different team member.
 2.  **Collaborate** by allowing multiple students to work on a single document,presentation,or video simultaneously, making group projects easier
 3.  **Visualize data** by transforming raw data into appealing charts and graphs
 4.  **Access free education** by giving teachers and students at eligible schools free access to its education
-5.  **Develop skills ** students can develop essential design ,organisation,and digital literacy skills
+5.  **Develop skills** students can develop essential design ,organisation,and digital literacy skills
 
 >Eventually the users are transformed to efficient, self sufficient "visual communicater" capable of producing professional-grade , branded content without needing a graphic design team
 
