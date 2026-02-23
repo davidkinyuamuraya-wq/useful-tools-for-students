@@ -20,7 +20,8 @@ Each section is written✍✍ by a different team member.
 ### how to access it 👉👉👉
 🔗🔗[link](https://chat.openai.com/)
 ## Canva
-<! -- [Team Member 2 caleb565656] This is an **online, user-friendly graphic design platform** that allows users to **create social media graphics, presentations, posters,videos and websites** without advanced technical skills
+<! -- [Team Member 2 caleb565656] 
+-This is an **online, user-friendly graphic design platform** that allows users to **create social media graphics, presentations, posters,videos and websites** without advanced technical skills
 
 ### It enables students or any other users to:
 1.  **Elevate their projects and presentations** by moving beyond basic slideshows with thousands of templates for infographics,reports,posters, and interactive presentations
