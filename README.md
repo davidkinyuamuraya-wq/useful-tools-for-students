@@ -1,11 +1,16 @@
-# useful-tools-for-students
+# Useful-Tools-For-Students
 A collaborative guide for all students by [davidkinyuamuraya-wq,caleb565656,XOXO254,Boniface1818]
 ## Table of contents 
 -[Introduction](#introduction)
+
 -[ChatGPT](#chatGPT)
+
 -[Canva](#canva)
+
 -[VS Code](#vs-code)
+
 -[HackerRank](#Hackerank)
+
 ## Introduction
 This guide covers the various tools that students ought to know about.
 Each section is written✍✍ by a different team member.
@@ -34,6 +39,7 @@ Each section is written✍✍ by a different team member.
 >Eventually the users are transformed to efficient, self sufficient "visual communicater" capable of producing professional-grade , branded content without needing a graphic design team
 
 ##How to access canva
+
 [link] (https://www.canva.com/)
 
 
