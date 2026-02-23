@@ -71,5 +71,5 @@ It allows users to:
 ---
 
 ### 🌟 Connect & Learn
-[![HackerRank](https://img.shields.io/badge/HackerRank-100000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-100000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/) (https://www.canva.com/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Boniface1818)
