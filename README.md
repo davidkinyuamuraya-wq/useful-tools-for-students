@@ -20,7 +20,21 @@ Each section is written✍✍ by a different team member.
 ### how to access it 👉👉👉
 🔗🔗[link](https://chat.openai.com/)
 ## Canva
-<! -- [Team Member 2 caleb565656] 
+<! -- [Team Member 2 caleb565656] This is an **online, user-friendly graphic design platform** that allows users to **create social media graphics, presentations, posters,videos and websites** without advanced technical skills
+
+### It enables students or any other users to:
+1.  **Elevate their projects and presentations** by moving beyond basic slideshows with thousands of templates for infographics,reports,posters, and interactive presentations
+2.  **Collaborate** by allowing multiple students to work on a single document,presentation,or video simultaneously, making group projects easier
+3.  **Visualize data** by transforming raw data into appealing charts and graphs
+4.  **Access free education** by giving teachers and students at eligible schools free access to its education
+5.  **Develop skills ** students can develop essential design ,organisation,and digital literacy skills
+
+>Eventually the users are transformed to efficient, self sufficient "visual communicater" capable of producing professional-grade , branded content without needing a graphic design team
+
+##How to access canva
+[link] (https://www.canva.com/)
+
+
 ## VS Code
 <! -- [Team Member 3 XOXO254]   
 ## HackerRank
