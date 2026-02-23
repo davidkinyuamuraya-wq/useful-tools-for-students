@@ -38,7 +38,7 @@ Each section is written✍✍ by a different team member.
 
 >Eventually the users are transformed to efficient, self sufficient "visual communicater" capable of producing professional-grade , branded content without needing a graphic design team
 
-##How to access canva
+##How to access canva👇👇👇
 
 [link] (https://www.canva.com/)
 
