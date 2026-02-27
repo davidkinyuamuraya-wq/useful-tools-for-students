@@ -29,7 +29,7 @@ Each section is written✍✍ by a different team member.
 
 -This is an **online, user-friendly graphic design platform** that allows users to **create social media graphics, presentations, posters,videos and websites** without advanced technical skills
 
-### It enables students or any other users to:
+### It enables students or any other users to: 
 1. ✈️ **Elevate their projects and presentations** by moving beyond basic slideshows with thousands of templates for infographics,reports,posters, and interactive presentations
 2. 🧑‍🤝‍🧑 **Collaborate** by allowing multiple students to work on a single document,presentation,or video simultaneously, making group projects easier
 3. 👁️‍🗨️ **Visualize data** by transforming raw data into appealing charts and graphs
